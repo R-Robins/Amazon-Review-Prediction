@@ -1,5 +1,5 @@
 # AmazonReviews
-Amazon customer reviews sentiment classification / machine learning
+Amazon customer reviews sentiment classification / machine learning.
 Summary of project and results may be found within Richard_Robinson_Report.pdf
 
 Dependancies: if already present no need to reinstall
