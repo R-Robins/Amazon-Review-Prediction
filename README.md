@@ -1,6 +1,6 @@
 # AmazonReviews
 Amazon customer reviews sentiment classification / machine learning.
-Summary of project and results may be found within Richard_Robinson_Report.pdf
+Documentation: https://github.com/R-Robins/Amazon-Review-Prediction/blob/main/Richard_Robinson_Report.pdf
 
 Dependancies: if already present no need to reinstall
 
